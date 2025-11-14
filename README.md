@@ -22,9 +22,40 @@ el centro de seguridad y alerta radioactiva asigna un rango de valores referenci
 
 Elabora de forma manuscrita: Algoritmo, Diagrama de flujo y Pseudocódigo.
 # Pasos
-1. > Se utilizará un conjunto de elementos practicando una adición de elementos y deben ser divisibles según la cantidad de elementos a utilizar. 4
-2. > Dará como aleación final
-3. Una referencia de la masa del producto. Se define en el código como variable  `Masa`.
-4. Referencia a la cual se le aplicará un valor porcentual de todos los elementos usados. Se define como variable sugerida de 0,1% o 0.001.
-5. Esto dependerá del tamaño de la fisura en el reactor.
-~~esto dependerá del tamaño de la fisura en el reactor~~ No se define en ninguna parte
+> Se utilizará un conjunto de elementos practicando una adición de elementos y deben ser divisibles según la cantidad de elementos a utilizar.
+4
+
+> Dará como aleación final
+No tiene sentido, no da ningún valor para definir una aleación final.
+
+> Una referencia de la masa del producto.
+Se define en el código como variable  `Masa`.
+
+> Referencia a la cual se le aplicará un valor porcentual de todos los elementos usados.
+Se define como variable sugerida de 0,1% o 0.001.
+
+> Esto dependerá del tamaño de la fisura en el reactor.
+No se define en ninguna parte el uso de esta variable, solo definirá el porcentaje mencionado antes, pero no tiene valor agregado al problema.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
