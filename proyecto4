@@ -1,5 +1,5 @@
 Algoritmo Proyecto
-	Definir Val1, Val2, Val3, Val4 Como Real
+	Definir Val1, Val2, Val3, Val4, porcentaje Como Real
 	Definir Masa Como Entero
 	Mostrar "Introdusca la masa a probar."
 	Leer  Masa
@@ -11,11 +11,13 @@ Algoritmo Proyecto
 	leer Val3
 	Mostrar "Introdusca Valor 4"
 	leer Val4
+	Mostrar "Definir porcentaje"
+	leer porcentaje
 	
 	Val_el_ementos = Val1+Val2+Val3+Val4
 	Modulo_de_division = Val_el_ementos % 4
 	Mostrar "Resultante de la division " Modulo_de_division " es divisible."
-	Porcentaje_de_masa = Masa * 0.001
+	Porcentaje_de_masa = Masa * porcentaje
 	
 	Mostrar Porcentaje_de_masa
 	
