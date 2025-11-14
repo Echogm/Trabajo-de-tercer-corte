@@ -18,6 +18,6 @@ el centro de seguridad y alerta radioactiva asigna un rango de valores referenci
 - e) 3.1 a 3.5,
 - f) 3.6 a 4
 
-A continuación, se sugieren los valores aplicables a los elementos a utilizar: 10,10,10,10, el valor aplicable a la masa del producto según sugerencia del centro de seguridad puede ser .1%, y al aplicar este último valor se decidirá por el elemento a seleccionar para la elaboración del sello para el reactor.
+**A continuación, se sugieren los valores aplicables a los elementos a utilizar: 10,10,10,10, el valor aplicable a la masa del producto según sugerencia del centro de seguridad puede ser .1%, y al aplicar este último valor se decidirá por el elemento a seleccionar para la elaboración del sello para el reactor.**
 
 Elabora de forma manuscrita: Algoritmo, Diagrama de flujo y Pseudocódigo.
