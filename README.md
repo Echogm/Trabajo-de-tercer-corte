@@ -1,6 +1,6 @@
 # Trabajo de tercer corte
 
-Una institución nuclear donde se encuentran cuatro reactores nucleares, uno de ellos presenta en estos momentos una fuga de radioactiva de mili sievert, lo que al cuerpo humano es soportable durante un año, el centro de seguridad y alerta radioactiva consideró que se puede hacer un plan de contingencia creando un sello metalúrgico utilizando productos homogéneos de propiedades metálicas por un grupo de elementos creando un metal más fortalecido, se utilizarán un conjunto de elementos practicando una adición de elementos, **deben ser divisibles según la cantidad de elementos a utilizar, dará como aleación final, una referencia de la masa del producto, referencia a la cual se le aplicará un valor porcentual de todos los elementos usados, esto dependerá del tamaño de la fisura en el reactor**, que según el centro de seguridad radioactiva sugiere la utilización de:
+Una institución nuclear donde se encuentran cuatro reactores nucleares, uno de ellos presenta en estos momentos una fuga de radioactiva de mili sievert, lo que al cuerpo humano es soportable durante un año, el centro de seguridad y alerta radioactiva consideró que se puede hacer un plan de contingencia creando un sello metalúrgico utilizando productos homogéneos de propiedades metálicas por un grupo de elementos creando un metal más fortalecido, **se utilizarán un conjunto de elementos practicando una adición de elementos, deben ser divisibles según la cantidad de elementos a utilizar, dará como aleación final, una referencia de la masa del producto, referencia a la cual se le aplicará un valor porcentual de todos los elementos usados, esto dependerá del tamaño de la fisura en el reactor**, que según el centro de seguridad radioactiva sugiere la utilización de:
 
 - a) Acero al Carbono
 - b) Acero al Silicio
@@ -21,3 +21,10 @@ el centro de seguridad y alerta radioactiva asigna un rango de valores referenci
 **A continuación, se sugieren los valores aplicables a los elementos a utilizar: 10,10,10,10, el valor aplicable a la masa del producto según sugerencia del centro de seguridad puede ser .1%, y al aplicar este último valor se decidirá por el elemento a seleccionar para la elaboración del sello para el reactor.**
 
 Elabora de forma manuscrita: Algoritmo, Diagrama de flujo y Pseudocódigo.
+# Pasos
+1. > Se utilizará un conjunto de elementos practicando una adición de elementos y deben ser divisibles según la cantidad de elementos a utilizar. 4
+2. > Dará como aleación final
+3. Una referencia de la masa del producto. Se define en el código como variable  `Masa`.
+4. Referencia a la cual se le aplicará un valor porcentual de todos los elementos usados. Se define como variable sugerida de 0,1% o 0.001.
+5. Esto dependerá del tamaño de la fisura en el reactor.
+~~esto dependerá del tamaño de la fisura en el reactor~~ No se define en ninguna parte
