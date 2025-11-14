@@ -1,0 +1,49 @@
+Algoritmo Proyecto
+	Definir Val1, Val2, Val3, Val4 Como Real
+	Definir Masa Como Entero
+	Mostrar "Introdusca la masa a probar."
+	Leer  Masa
+	Mostrar "Introdusca Valor 1"
+	leer Val1
+	Mostrar "Introdusca Valor 2"
+	leer Val2
+	Mostrar "Introdusca Valor 3"
+	leer Val3
+	Mostrar "Introdusca Valor 4"
+	leer Val4
+	
+	Val_el_ementos = Val1+Val2+Val3+Val4
+	Modulo_de_division = Val_el_ementos % 4
+	Mostrar "Resultante de la division " Modulo_de_division " es divisible."
+	Porcentaje_de_masa = Masa * 0.001
+	
+	Mostrar Porcentaje_de_masa
+	
+	Si Porcentaje_de_masa >= 1 y Porcentaje_de_masa <= 1.4 Entonces
+		Mostrar "Acero al carbono";
+	SiNo
+		si Porcentaje_de_masa >= 1.5 y Porcentaje_de_masa <= 1.9 Entonces
+			Mostrar "Acero al cilicio";
+		SiNo
+			si Porcentaje_de_masa >= 2 y Porcentaje_de_masa <= 2.5 Entonces
+				Mostrar "Acero inoxidable";
+			SiNo
+				si Porcentaje_de_masa >= 2.6 y Porcentaje_de_masa <= 3 Entonces
+					Mostrar "Acero de damasco";
+				SiNo
+					si Porcentaje_de_masa >= 3.1 y Porcentaje_de_masa <= 3.5 Entonces
+						Mostrar "Acero galvanizado";
+					SiNo
+						si Porcentaje_de_masa >= 3.6 y Porcentaje_de_masa <= 4 Entonces
+							Mostrar Mostrar "Acero wootz";
+						SiNo
+							Mostrar "No hay casos posibles"
+						FinSi
+					FinSi
+				FinSi
+			FinSi
+		FinSi
+	Fin Si
+	
+FinAlgoritmo
+	
